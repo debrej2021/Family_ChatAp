@@ -1,0 +1,60 @@
+{
+  "family": [
+    {
+      "name": "Debashis Mohapatra",
+      "profession": "Director - Engineering",
+      "experience_years": 15,
+      "industry": "IT",
+      "education": "B.Tech in Computer Science"
+    },
+    {
+      "name": "Sushree Sahoo",
+      "profession": "Senior Architect-Technology",
+      "experience_years": 11,
+      "industry": "IT",
+      "education": "B.Tech in Biotechnology"
+    },
+    {
+      "name": "Dr Sucheta Mohapatra",
+      "profession": "Retired Professor - History",
+      "experience_years": 40,
+      "industry": "Education",
+      "education": "PhD"
+    },
+    {
+      "name": "Dr Kumudananda Mohapatra",
+      "profession": "Retired Professor - Political Science",
+      "experience_years": 40,
+      "industry": "Education",
+      "education": "PhD"
+    },
+    {
+      "name": "Sibasis Mohapatra",
+      "profession": "Director",
+      "experience_years": 10,
+      "industry": "Healthcare",
+      "education": "MBA"
+    },
+    {
+      "name": "Swetapadma Mohanty",
+      "profession": "Senior Architect-Technology",
+      "experience_years": 11,
+      "industry": "IT",
+      "education": "B.Tech in Mechanical Engineering"
+    },
+    {
+      "name": "Kritwik  Mohapatra",
+      "profession": "Elder Grandson - Debashis & Sushree's son",
+      "experience_years": "N/A",
+      "industry": "N/a",
+      "education": "N/A"
+    },
+    {
+      "name": "Srithik Mohapatra",
+      "profession": "Younger Grandson Sibasis and Swetapadma's son",
+      "experience_years": "N/A",
+      "industry": "N/a",
+      "education": "N/A"
+    }
+  ]
+}
